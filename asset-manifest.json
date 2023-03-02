@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.2be9f7bd.css",
-    "main.js": "/static/js/main.c13ec5db.js",
+    "main.css": "/static/css/main.cffceaf0.css",
+    "main.js": "/static/js/main.c67388bb.js",
     "static/js/787.6198a8aa.chunk.js": "/static/js/787.6198a8aa.chunk.js",
     "service-worker.js": "/service-worker.js",
     "static/media/TitilliumWeb-Regular.ttf": "/static/media/TitilliumWeb-Regular.e53e0538893d432e0635.ttf",
@@ -13,12 +13,12 @@
     "static/media/text-bullet-list-square-search-20-regular.svg": "/static/media/text-bullet-list-square-search-20-regular.1dda5517a7253f597993b843680791cf.svg",
     "index.html": "/index.html",
     "static/media/tray-item-add-20-regular.svg": "/static/media/tray-item-add-20-regular.de1ca1fc8cc5cb8585ce2e0ff61608ea.svg",
-    "main.2be9f7bd.css.map": "/static/css/main.2be9f7bd.css.map",
-    "main.c13ec5db.js.map": "/static/js/main.c13ec5db.js.map",
+    "main.cffceaf0.css.map": "/static/css/main.cffceaf0.css.map",
+    "main.c67388bb.js.map": "/static/js/main.c67388bb.js.map",
     "787.6198a8aa.chunk.js.map": "/static/js/787.6198a8aa.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2be9f7bd.css",
-    "static/js/main.c13ec5db.js"
+    "static/css/main.cffceaf0.css",
+    "static/js/main.c67388bb.js"
   ]
 }
