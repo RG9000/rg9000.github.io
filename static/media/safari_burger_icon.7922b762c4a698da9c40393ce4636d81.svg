@@ -1,0 +1,31 @@
+<svg
+width="1em"
+height="1em"
+xmlns="http://www.w3.org/2000/svg"
+viewBox="25 25 450 400"
+>
+<path
+    id="hamburger-top-line"
+    stroke-width="50"
+    stroke-linecap="round"
+    stroke="#fff"
+    fill="none"
+    d="M50,50 L450,50"
+/>
+<path
+    id="hamburger-middle-line"
+    stroke-width="50"
+    stroke-linecap="round"
+    stroke="#fff"
+    fill="none"
+    d="M50,225 L450,225"
+/>
+<path
+    id="hamburger-bottom-line"
+    stroke-width="50"
+    stroke-linecap="round"
+    stroke="#fff"
+    fill="none"
+    d="M50,400 L450,400"
+/>
+</svg>

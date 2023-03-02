@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.f12536a7.css",
-    "main.js": "/static/js/main.a2251c72.js",
+    "main.css": "/static/css/main.0bbba4f7.css",
+    "main.js": "/static/js/main.d71c5fcd.js",
     "static/js/787.6198a8aa.chunk.js": "/static/js/787.6198a8aa.chunk.js",
     "service-worker.js": "/service-worker.js",
     "static/media/TitilliumWeb-Regular.ttf": "/static/media/TitilliumWeb-Regular.e53e0538893d432e0635.ttf",
@@ -13,12 +13,14 @@
     "static/media/text-bullet-list-square-search-20-regular.svg": "/static/media/text-bullet-list-square-search-20-regular.1dda5517a7253f597993b843680791cf.svg",
     "index.html": "/index.html",
     "static/media/tray-item-add-20-regular.svg": "/static/media/tray-item-add-20-regular.de1ca1fc8cc5cb8585ce2e0ff61608ea.svg",
-    "main.f12536a7.css.map": "/static/css/main.f12536a7.css.map",
-    "main.a2251c72.js.map": "/static/js/main.a2251c72.js.map",
+    "static/media/safari_burger_icon.svg": "/static/media/safari_burger_icon.7922b762c4a698da9c40393ce4636d81.svg",
+    "static/media/safari_close_icon.svg": "/static/media/safari_close_icon.835b85bba7f31e1c74ec47de6b0b38e7.svg",
+    "main.0bbba4f7.css.map": "/static/css/main.0bbba4f7.css.map",
+    "main.d71c5fcd.js.map": "/static/js/main.d71c5fcd.js.map",
     "787.6198a8aa.chunk.js.map": "/static/js/787.6198a8aa.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f12536a7.css",
-    "static/js/main.a2251c72.js"
+    "static/css/main.0bbba4f7.css",
+    "static/js/main.d71c5fcd.js"
   ]
 }
