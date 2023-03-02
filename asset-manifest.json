@@ -1,26 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.e5dcda87.css",
-    "main.js": "/static/js/main.94576adb.js",
+    "main.css": "/static/css/main.4c05c658.css",
+    "main.js": "/static/js/main.c13ec5db.js",
     "static/js/787.6198a8aa.chunk.js": "/static/js/787.6198a8aa.chunk.js",
     "service-worker.js": "/service-worker.js",
     "static/media/TitilliumWeb-Regular.ttf": "/static/media/TitilliumWeb-Regular.e53e0538893d432e0635.ttf",
     "static/media/spinning-loading.gif": "/static/media/spinning-loading.803f24369a085e35482e.gif",
     "static/media/logo.svg": "/static/media/logo.08a6c1916e10dba589cc100823bc13cb.svg",
-    "static/media/hamburger.svg": "/static/media/hamburger.fccc037ecec5713d90b3bad5d1290d33.svg",
-    "static/media/scan-icon.svg": "/static/media/scan-icon.1164830700c366b110564f403a9543da.svg",
     "static/media/home-person-24-regular.svg": "/static/media/home-person-24-regular.7bbc3c613c7c59e197c9ab645b9474f5.svg",
     "static/media/task-list-square-rtl-24-regular.svg": "/static/media/task-list-square-rtl-24-regular.70c8d10bfbe73655300803edc39c4c2a.svg",
     "static/media/tray-item-remove-24-regular.svg": "/static/media/tray-item-remove-24-regular.77701eedd3d77e8e0c5c3e87c183b765.svg",
     "static/media/text-bullet-list-square-search-20-regular.svg": "/static/media/text-bullet-list-square-search-20-regular.1dda5517a7253f597993b843680791cf.svg",
     "index.html": "/index.html",
     "static/media/tray-item-add-20-regular.svg": "/static/media/tray-item-add-20-regular.de1ca1fc8cc5cb8585ce2e0ff61608ea.svg",
-    "main.e5dcda87.css.map": "/static/css/main.e5dcda87.css.map",
-    "main.94576adb.js.map": "/static/js/main.94576adb.js.map",
+    "main.4c05c658.css.map": "/static/css/main.4c05c658.css.map",
+    "main.c13ec5db.js.map": "/static/js/main.c13ec5db.js.map",
     "787.6198a8aa.chunk.js.map": "/static/js/787.6198a8aa.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e5dcda87.css",
-    "static/js/main.94576adb.js"
+    "static/css/main.4c05c658.css",
+    "static/js/main.c13ec5db.js"
   ]
 }
