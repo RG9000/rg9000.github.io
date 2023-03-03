@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.8e1e2dcc.css",
-    "main.js": "/static/js/main.a30d4f21.js",
+    "main.js": "/static/js/main.5908e7de.js",
     "static/js/787.6198a8aa.chunk.js": "/static/js/787.6198a8aa.chunk.js",
     "service-worker.js": "/service-worker.js",
     "static/media/TitilliumWeb-Regular.ttf": "/static/media/TitilliumWeb-Regular.e53e0538893d432e0635.ttf",
@@ -16,11 +16,11 @@
     "static/media/safari_burger_icon.svg": "/static/media/safari_burger_icon.7922b762c4a698da9c40393ce4636d81.svg",
     "static/media/safari_close_icon.svg": "/static/media/safari_close_icon.835b85bba7f31e1c74ec47de6b0b38e7.svg",
     "main.8e1e2dcc.css.map": "/static/css/main.8e1e2dcc.css.map",
-    "main.a30d4f21.js.map": "/static/js/main.a30d4f21.js.map",
+    "main.5908e7de.js.map": "/static/js/main.5908e7de.js.map",
     "787.6198a8aa.chunk.js.map": "/static/js/787.6198a8aa.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8e1e2dcc.css",
-    "static/js/main.a30d4f21.js"
+    "static/js/main.5908e7de.js"
   ]
 }
